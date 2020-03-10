@@ -1,5 +1,6 @@
 # Categorical correlation, RFR and XGBoost
-### Link to Kaggle Kernel: https://www.kaggle.com/matheuscoradini/categorical-correlation-rfr-and-xgboost
+### Kaggle competition overview: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+### Kaggle Kernel: https://www.kaggle.com/matheuscoradini/categorical-correlation-rfr-and-xgboost
 
 
 ```python
